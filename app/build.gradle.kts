@@ -6,8 +6,8 @@ plugins {
 }
 
 android {
-    compileSdk = 34
 
+    compileSdk = 33
     defaultConfig {
         applicationId = "dev.icerock.education.gradle"
         minSdk = 19
